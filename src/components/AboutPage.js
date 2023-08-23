@@ -69,7 +69,7 @@ const AboutPage = () => {
                 <Main>
                     I'm a full-stack developer located in Italy. I love to create simple yet beautiful websites with great user experience.
                     <br /> <br/>
-                    I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer.
+                    I'm focused on managing data e back-end technologies interfaced to responsive front-end web applications. I'm an independent freelancer.
                     <br/> <br/>
                     I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
                 </Main>

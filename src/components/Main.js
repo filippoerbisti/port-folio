@@ -14,9 +14,9 @@ const MainContainer = styled.div`
     height: 100vh;
     overflow:hidden;
     position: relative;
-    h2,h3,h4,h5,h6{
-    font-family:'Karla', sans-serif ;
-    font-weight:500;
+    h2,h3,h4,h5,h6 {
+        font-family:'Karla', sans-serif ;
+        font-weight:500;
     }
 `
 
@@ -155,7 +155,7 @@ const Main = () => {
                     </motion.h2>
                 </Contact>
 
-                <BLOG to="/blog">
+                <BLOG to="https://it.linkedin.com/in/filippo-erbisti-1783a9202" target='_blank'> {/*TODO: sbloccare -> to='/blog' */}
                     <motion.h2
                         initial={{
                             y: -200,

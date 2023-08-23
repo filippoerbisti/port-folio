@@ -21,10 +21,11 @@ const Box = styled.div`
 const Main = styled(motion.ul)`
   position: fixed;
   top: 12rem;
-  left: calc(10rem + 15vw);
+  left: calc(3rem + 5vw);
   height: 40vh;
   display: flex;
   color: white;
+  z-index: 1;
 `;
 
 const Rotate = styled.span`
